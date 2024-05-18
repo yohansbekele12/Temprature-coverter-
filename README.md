@@ -2,7 +2,7 @@
 
 This is a simple web application that converts temperatures between Celsius and Fahrenheit. It features a clean user interface with responsive design and validation for user input. 
 
-** Features**
+### Features
 
 - **Two-way Conversion**: Convert from Celsius to Fahrenheit and vice versa.
 - **User Input Validation**: Ensures the input is a valid number before conversion.
