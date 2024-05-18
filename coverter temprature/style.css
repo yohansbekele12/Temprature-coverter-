@@ -1,0 +1,50 @@
+#intro{
+    padding:10px 30px;
+    color: rgb(0, 162, 255);
+}
+.container{
+    position: absolute;
+    top: 20%;
+    left: 30%;
+    right: 30%;
+    bottom: 20%;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#f1{
+    background-color: azure;
+}
+
+.check1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.check2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+#btn{
+    
+    color: aliceblue;
+    background: rgb(219, 53, 53);
+    padding: 5px 30px;
+    font-size: 18px;
+    border-radius: 5px;
+    
+}
+
+.btncontainer{
+    padding:5px 60px;
+}
+
+#result{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+
+
